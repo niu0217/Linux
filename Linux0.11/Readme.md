@@ -4,49 +4,18 @@
 
 + Linux内核完全注释.pdf
 
+## 基础
+
 ## 引导启动
-
-+ Boot/操作系统的引导.md
-
-+ Boot/引导启动程序.md
-+ Boot/Linux内核完全注释-引导启动程序.md
-+ Boot/Linux内核完全注释-初始化程序.md
 
 ## 系统调用
 
-+ SystemCall/系统调用.md
-+ SystemCall/自己实现系统调用.md
-+ SystemCall/Linux内核完全注释-内核代码.md
-+ SystemCall/Linux内核完全注释-内核代码2.md
-
 ## 进程和线程
-
-+ ProcessAndThread/进程运行轨迹的跟踪与统计.md
-+ ProcessAndThread/基于内核栈切换的进程切换.md
 
 ## 信号量
 
-+ Signal/自己实现信号量.md
-+ Signal/解决生产者-消费者问题.md
-+ Signal/Linux信号量函数.md
-
 ## 内存管理
-
-+ MemoryManagement/虚拟地址翻译成物理地址.md
-+ MemoryManagement/实现共享内存.md
-+ MemoryManagement/分析fork的内存管理.md
-+ MemoryManagement/Linux0.11的内存管理.md
-+ MemoryManagement/Linux0.11的内存管理2.md
 
 ## 文件IO
 
-+ IO/终端设备的控制.md
-+ IO/分析键盘中断过程.md
-+ IO/ASCII码表.md
-
 ## 文件系统
-
-+ FileSystem/proc文件系统的实现.md
-+ FileSystem/Linux0.11内核完全注释-文件系统.md
-+ FileSystem/Linux0.11内核完全注释-文件系统2.md
-+ FileSystem/Linux0.11内核完全注释-文件系统3.md
