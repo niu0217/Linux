@@ -4,11 +4,6 @@
 
 + Linux内核完全注释.pdf
 
-## 杂牌
-
-+ 进程运行轨迹的跟踪与统计.md
-+ 基于内核栈切换的进程切换.md
-
 ## 引导启动
 
 + Boot/操作系统的引导.md
@@ -23,6 +18,11 @@
 + SystemCall/自己实现系统调用.md
 + SystemCall/Linux内核完全注释-内核代码.md
 + SystemCall/Linux内核完全注释-内核代码2.md
+
+## 进程和线程
+
++ ProcessAndThread/进程运行轨迹的跟踪与统计.md
++ ProcessAndThread/基于内核栈切换的进程切换.md
 
 ## 信号量
 
